@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["My dev: dana2 🎉", "Vibe & chill the best 👑"];
-const statusTypes = [ 'dnd', 'idle'];
+const statusTypes = [ 'dnd', 'dnd'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
